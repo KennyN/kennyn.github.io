@@ -14,3 +14,10 @@ Hi there, I'm Kenny Nguyen! I am a dedicated cybersecurity professional with a s
 - Links to my LinkedIn, Medium, and GitHub profiles
 - Downloadable resume
 - List of certifications with an option to view them
+
+## This Website Was Made With
+
+- **HTML5**: Structure of the website
+- **CSS3**: Styling of the website, including the use of Tailwind CSS
+- **JavaScript**: Interactivity for the site, including toggling sections and displaying overlays
+- **FontAwesome**: Icons used throughout the site
