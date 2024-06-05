@@ -1,2 +1,2 @@
-# kenny.github.io
+# kennyn.github.io
 Personal website
